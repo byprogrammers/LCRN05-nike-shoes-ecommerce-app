@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CarmenSans-Regular.otf",
+      "sha1": "1cba3119a652a429f3871ec116c61bb9326c4ce6"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-SemiBold.otf",
+      "sha1": "20105abb4f4bd203baf56ddc1cb6fdbd31dc89b9"
+    },
+    {
+      "path": "assets/fonts/CarmenSans-Thin.otf",
+      "sha1": "12b482e30d18f1af6356799fbc0a1797153eefda"
+    },
+    {
+      "path": "assets/fonts/CocoGothic-Bold.ttf",
+      "sha1": "5f54758465a83047a38a27aa06336eb0a9089fc6"
+    },
+    {
+      "path": "assets/fonts/CocoGothic.ttf",
+      "sha1": "d14013177ff576aa248382044c5bdacd8ccfa97b"
+    }
+  ]
+}
